@@ -4,6 +4,8 @@ Fast.ai course: https://course.fast.ai/
 
 Based on: https://github.com/brtknr/fastai-jetson-nano
 
+Setup dependencies is a bit of a hassle as for ARM devices there is not anaconda available.. so we need to install all dependencies manually
+
 ## apt-get dependencies
 
 ```bash
@@ -63,7 +65,7 @@ python3 setup.py install
 pip3 install fastai --no-deps
 ```
 
-jupyter notebook
+## jupyter notebook
 
 ```bash
 echo "done with part1 - now logout, login again and run setup_jupyter.sh"
@@ -79,7 +81,6 @@ git clone https://github.com/fastai/course-v3.git
 cd course-v3
 jupyter notebook
 ```
-
 
 ## Common errors
 
