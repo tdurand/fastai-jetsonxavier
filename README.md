@@ -26,7 +26,7 @@ sudo apt-get -y install \
 
 ## pip dependencies
 
-download requirements.txt file
+download requirements.txt file from this repo: https://github.com/tdurand/fastai-jetsonxavier/blob/master/requirements.txt
 
 ```bash
 
@@ -38,7 +38,7 @@ pip3 install -r requirements.txt
 
 Links for wheel files: https://github.com/pytorch/pytorch#nvidia-jetson-platforms
 
-get latest .whl file
+Go to the link and get the latest .whl file
 
 ```bash
 pip3 install torch-1.4.0-cp36-cp36m-linux_aarch64.whl
