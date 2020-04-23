@@ -1,5 +1,7 @@
 # How to setup fastai course on Jetson Xavier
 
+Fast.ai course: https://course.fast.ai/
+
 Based on: https://github.com/brtknr/fastai-jetson-nano
 
 ## apt-get dependencies
