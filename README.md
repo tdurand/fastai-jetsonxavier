@@ -4,7 +4,10 @@ Fast.ai course: https://course.fast.ai/
 
 Based on: https://github.com/brtknr/fastai-jetson-nano
 
-Setup dependencies is a bit of a hassle as for ARM devices there is not anaconda available.. so we need to install all dependencies manually
+Setup dependencies is a bit of a hassle as for ARM devices there is not anaconda available.. so we need to install all dependencies
+manually
+
+_EDIT: 24/04/2020 , pytorch v1.5.0 available on jetsons https://forums.developer.nvidia.com/t/pytorch-for-jetson-nano-version-1-5-0-now-available/72048_
 
 ## apt-get dependencies
 
